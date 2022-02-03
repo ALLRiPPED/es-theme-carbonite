@@ -25,22 +25,13 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./art/carbon.png</path>
+			<path>./art/carbonite.png</path>
 		</image>
 
 		<helpsystem name="help">
 			<textColor>9d9d9d</textColor>
 			<iconColor>9d9d9d</iconColor>
 		</helpsystem>
-
-		<image name="CenterFade" extra="true">
-			<tile>false</tile>
-			<size>1 0.5</size>
-			<pos>0.5 0.5</pos>
-			<origin>0.5 0.5</origin>
-			<path>./art/centerfade.png</path>
-			<color>9d9d9d</color>
-		</image>
 
 		<image name="BottomBar" extra="true">
 			<tile>false</tile>
@@ -62,7 +53,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/carbon.png</path>
+			<path>./art/carbonite2.png</path>
 		</image>
 
 		<textlist name="gamelist">
@@ -123,7 +114,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/carbon.png</path>
+			<path>./art/carbonite3.png</path>
 		</image>
 
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
